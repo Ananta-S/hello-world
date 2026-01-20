@@ -1,2 +1,2 @@
 # hello-world
-This is to practice GitHub Flow.
+My name is Ananta Sharma and I am currently doing my masters in data science at Boston University.
